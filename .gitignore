@@ -27,3 +27,16 @@ yarn-error.log*
 
 package.lock.json
 pnpm-lock.yaml
+
+# 本地调试配置（含敏感 token）
+config.json
+
+# 构建产物
+output/
+
+# 本地文档和知识库
+demos/
+knowledges/
+"AI表格 AI 字段开发指南（FaaS版）.md"
+*.md
+!README.md
