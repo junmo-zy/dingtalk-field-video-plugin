@@ -63,6 +63,3 @@ npm run build
 
 前往 [https://aivip.link/dashboard/apikey](https://aivip.link/dashboard/apikey) 注册并获取 API Key。
 
-## 发布
-
-填写[钉钉 AI 表格 AI 字段上架申请表单](https://alidocs.dingtalk.com/notable/share/form/v014j6OJ5jxepK0Eq3p_hERWDMS_Wqw4Upz)，提交后会有专员拉群沟通上架流程。
