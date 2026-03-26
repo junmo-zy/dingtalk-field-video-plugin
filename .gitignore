@@ -24,19 +24,23 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
 package.lock.json
-pnpm-lock.yaml
+package-lock.json
 
-# 本地调试配置（含敏感 token）
+# Local debug config (contains sensitive API keys)
 config.json
 
-# 构建产物
+# Build output
 output/
 
-# 本地文档和知识库
+# Claude AI files
+.claude/
+
+# Demo and knowledge files (not part of published plugin)
 demos/
 knowledges/
+
+# DingTalk dev guide doc
 "AI表格 AI 字段开发指南（FaaS版）.md"
-*.md
-!README.md
+AI表格*
+pnpm-lock.yaml
